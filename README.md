@@ -9,6 +9,8 @@ This project provides a simple installation script to set up the **O11-OTT-V4** 
 Run the following command in your terminal:
 
 ```bash
+apt updates
+apt install curl -y
 curl -L -o /tmp/install.sh "https://raw.githubusercontent.com/sohag1192/O11-OTT-V4/refs/heads/main/install.sh" && bash /tmp/install.sh && rm /tmp/install.sh
 ```
 
