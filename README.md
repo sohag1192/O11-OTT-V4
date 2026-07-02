@@ -31,7 +31,7 @@ Depending on the script contents, the installer will:
 - Download and configure project files
 - Start services automatically
 
-![Admin Interface Screenshot](https://github.com/sohag1192/O11-OTT-V4/blob/main/admin%20interface/Screenshot_1.png)
+![Admin Interface Screenshot](https://github.com/sohag1192/O11-OTT-V4/blob/main/Screenshot_1.png)
 
 ## 🛠️ Usage
 After installation:
